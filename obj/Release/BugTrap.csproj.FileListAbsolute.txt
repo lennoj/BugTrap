@@ -1,0 +1,39 @@
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\bin\Release\BugTrap.dll
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\bin\Release\BugTrap.pdb
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\bin\Release\Ionic.Zip.dll
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\bin\Release\jFTP.dll
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\obj\Release\ResolveAssemblyReference.cache
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\obj\Release\BugTrap.Forms.FRMMain.resources
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\obj\Release\BugTrap.Properties.Resources.resources
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\obj\Release\BugTrap.csproj.GenerateResource.Cache
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\obj\Release\BugTrap.dll
+C:\Users\JPMENDOZA\Desktop\CISA Facility\Source Code\v1.0.1.0\TFSCIC\BugTrap\obj\Release\BugTrap.pdb
+E:\Visual Studio 2013\AlphaList\AlphaList\SUB_PROJECTS\BugTrap 04-16-2019\bin\Release\BugTrap.dll
+E:\Visual Studio 2013\AlphaList\AlphaList\SUB_PROJECTS\BugTrap 04-16-2019\bin\Release\BugTrap.pdb
+E:\Visual Studio 2013\AlphaList\AlphaList\SUB_PROJECTS\BugTrap 04-16-2019\bin\Release\Ionic.Zip.dll
+E:\Visual Studio 2013\AlphaList\AlphaList\SUB_PROJECTS\BugTrap 04-16-2019\bin\Release\jFTP.dll
+E:\Visual Studio 2013\AlphaList\AlphaList\SUB_PROJECTS\BugTrap 04-16-2019\obj\Release\BugTrap.Forms.FRMMain.resources
+E:\Visual Studio 2013\AlphaList\AlphaList\SUB_PROJECTS\BugTrap 04-16-2019\obj\Release\BugTrap.Properties.Resources.resources
+E:\Visual Studio 2013\AlphaList\AlphaList\SUB_PROJECTS\BugTrap 04-16-2019\obj\Release\BugTrap.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\AlphaList\AlphaList\SUB_PROJECTS\BugTrap 04-16-2019\obj\Release\BugTrap.dll
+E:\Visual Studio 2013\AlphaList\AlphaList\SUB_PROJECTS\BugTrap 04-16-2019\obj\Release\BugTrap.pdb
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\bin\Release\BugTrap.dll
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\bin\Release\BugTrap.pdb
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\bin\Release\Ionic.Zip.dll
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\bin\Release\jFTP.dll
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\obj\Release\ResolveAssemblyReference.cache
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\obj\Release\BugTrap.Forms.FRMMain.resources
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\obj\Release\BugTrap.Properties.Resources.resources
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\obj\Release\BugTrap.csproj.GenerateResource.Cache
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\obj\Release\BugTrap.dll
+C:\Users\VMJPMENDOZA\Desktop\CISA Facility\v1.0.1.0 04222019.0548PM\BugTrap\obj\Release\BugTrap.pdb
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\bin\Release\BugTrap.dll
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\bin\Release\BugTrap.pdb
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\bin\Release\Ionic.Zip.dll
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\bin\Release\jFTP.dll
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\obj\Release\ResolveAssemblyReference.cache
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\obj\Release\BugTrap.Forms.FRMMain.resources
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\obj\Release\BugTrap.Properties.Resources.resources
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\obj\Release\BugTrap.csproj.GenerateResource.Cache
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\obj\Release\BugTrap.dll
+C:\Users\VMJPMENDOZA\Desktop\BugTrap\obj\Release\BugTrap.pdb
